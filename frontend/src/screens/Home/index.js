@@ -26,7 +26,7 @@ function Maker() {
       <StatusBar barStyle="dark-content" />
 
       <IconsView>
-        <MakerLine>App em construção 🚧</MakerLine>
+        <MakerLine>App em construção 🚧 by Player 2 🕹</MakerLine>
         <TaskIcon onPress={handleRedirectMyTasks}>
           <Ionicons name="ios-list" size={50} color="#fff" />
         </TaskIcon>
